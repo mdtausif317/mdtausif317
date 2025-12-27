@@ -16,6 +16,7 @@
 * 🚀 Startup ideas
 * 💼 Freelance / contract work
 * 🎨 Frontend & UI/UX collaboration
+* ☁️ AWS & Azure
 ---
 ### 🤝 Looking for Help With
 
@@ -32,7 +33,6 @@
 * ⚛️ React JS
 * 🔀 React + API integration
 * 📦 Modern frontend architecture
-* ☁️ AWS & Azure
 ---
 ### 💬 Ask Me About
 
