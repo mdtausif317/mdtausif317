@@ -1,27 +1,193 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>👉 What are you working on right now?<br><br>🏢 Company projects at TecMicra Solutions<br><br>🧩 SaaS / product-based application<br><br>🛠️ Admin panel / ERP / CRM system<br><br>🌐 Web applications<br><br>📱 Mobile app backend<br><br>🚀 Personal / side projects<br><br>👯 I’m looking to collaborate on<br><br>👉 What kind of collaboration are you open to?<br><br>🌐 Web applications<br><br>☁️ SaaS platforms<br><br>🧑‍💻 Open-source projects<br><br>🚀 Startup ideas<br><br>💼 Freelance / contract work<br><br>🎨 Frontend + UI/UX collaboration<br><br>🤝 I’m looking for help with<br><br>👉 Where do you want support or improvement?<br><br>🏗️ Software architecture<br><br>⚛️ React best practices<br><br>⚡ Performance optimization<br><br>☁️ Cloud & DevOps<br><br>🔐 Security & best practices<br><br>📈 Scaling applications<br><br>🎯 Career growth / leadership<br><br>🌱 I’m currently learning<br><br>👉 What are you learning right now?<br><br>⚛️ React JS (basic / intermediate / advanced?)<br><br>🔀 API integration with React<br><br>📦 Modern frontend architecture<br><br>☁️ AWS / Azure<br><br>🧠 Anything else?<br><br>💬 Ask me about<br><br>👉 What topics are you confident in? (Choose 5–7)<br><br>🐘 PHP / Laravel / CodeIgniter<br><br>🗄️ MySQL & database optimization<br><br>⚙️ Business logic & admin systems<br><br>🔌 API development<br><br>🚀 Production issue handling<br><br>👨‍🏫 Mentoring / guidance<br><br>☁️ Cloud (AWS, Azure, Firebase)<br><br>⚡ Fun fact<br><br>👉 Pick one or write your own 😄<br><br>🧠 I love turning complex logic into simple solutions<br><br>🐞 Debugging feels like solving puzzles<br><br>⚙️ Backend logic excites me more than UI<br><br>🚀 I enjoy building systems that scale
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tausif | Senior Software Developer</title>
 
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Roboto, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      line-height: 1.6;
+    }
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tausifaarj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arju35n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tausif-raza-96a111147) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Tausif-Raza-19) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arju35a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MDTausif43255) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mdtausif7930) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@MD-Tausif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifraza317@gmail.com) 
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdtausif317&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdtausif317&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtausif317&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    header {
+      padding: 80px 20px;
+      text-align: center;
+      background: linear-gradient(135deg, #020617, #020617);
+    }
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdtausif317&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+    header h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    header h2 {
+      font-weight: 400;
+      color: #94a3b8;
+    }
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdtausif317&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    header p {
+      max-width: 700px;
+      margin: 20px auto;
+      color: #cbd5f5;
+    }
 
----
-[![](https://visitcount.itsvg.in/api?id=mdtausif317&icon=0&color=0)](https://visitcount.itsvg.in)
+    section {
+      padding: 70px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    h3 {
+      font-size: 28px;
+      margin-bottom: 25px;
+      border-left: 5px solid #38bdf8;
+      padding-left: 15px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: #020617;
+      padding: 25px;
+      border-radius: 10px;
+      border: 1px solid #1e293b;
+    }
+
+    .card h4 {
+      margin-top: 0;
+      color: #38bdf8;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid #1e293b;
+      color: #94a3b8;
+    }
+
+    .social a {
+      margin: 0 10px;
+      font-size: 18px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header>
+    <h1>👋 Hi, I'm Tausif</h1>
+    <h2>Senior Software Developer</h2>
+    <p>
+      I build scalable web applications, SaaS platforms, and enterprise admin systems.
+      I enjoy turning complex business requirements into clean, secure, and
+      high-performance software solutions.
+    </p>
+  </header>
+
+  <!-- ABOUT -->
+  <section>
+    <h3>👨‍💻 About Me</h3>
+    <p>
+      I’m a Senior Software Developer working at <strong>TecMicra Solutions</strong>,
+      where I develop enterprise web platforms, admin dashboards, ERP/CRM systems,
+      and backend services for real-world business needs.
+    </p>
+  </section>
+
+  <!-- WHAT I DO -->
+  <section>
+    <h3>💼 What I Do</h3>
+    <div class="grid">
+      <div class="card">
+        <h4>Web & SaaS Development</h4>
+        <p>Scalable web applications and SaaS platforms with clean architecture.</p>
+      </div>
+      <div class="card">
+        <h4>Admin Panels & ERP</h4>
+        <p>Powerful dashboards, role-based systems, ERP & CRM solutions.</p>
+      </div>
+      <div class="card">
+        <h4>Backend & APIs</h4>
+        <p>REST APIs, business logic, database optimization, performance tuning.</p>
+      </div>
+      <div class="card">
+        <h4>Cloud & Deployment</h4>
+        <p>AWS, Azure, Firebase, scalable & secure deployment workflows.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CURRENTLY LEARNING -->
+  <section>
+    <h3>🌱 Currently Learning</h3>
+    <ul>
+      <li>⚛️ React JS & modern frontend architecture</li>
+      <li>🔀 React + REST API integration</li>
+      <li>☁️ AWS & Azure cloud services</li>
+    </ul>
+  </section>
+
+  <!-- TECH STACK -->
+  <section>
+    <h3>🛠️ Tech Stack</h3>
+    <p>
+      <strong>Backend:</strong> PHP (8+), Laravel, CodeIgniter, MySQL<br/>
+      <strong>Frontend:</strong> JavaScript, React JS, jQuery, HTML5, CSS3, Bootstrap<br/>
+      <strong>Cloud:</strong> AWS, Azure, Firebase<br/>
+      <strong>Tools:</strong> Git, APIs, Performance Optimization
+    </p>
+  </section>
+
+  <!-- COLLABORATION -->
+  <section>
+    <h3>🤝 Open to Collaboration</h3>
+    <p>
+      I’m open to collaborating on web applications, SaaS platforms,
+      startup ideas, open-source projects, and freelance/contract work.
+    </p>
+  </section>
+
+  <!-- FUN FACT -->
+  <section>
+    <h3>⚡ Fun Fact</h3>
+    <p>
+      🧠 I love turning complex logic into simple, scalable solutions —
+      debugging feels like solving puzzles.
+    </p>
+  </section>
+
+  <!-- CONTACT -->
+  <footer>
+    <p>📩 Let’s Connect</p>
+    <div class="social">
+      <a href="https://linkedin.com/in/tausif-raza-96a111147" target="_blank">LinkedIn</a>
+      |
+      <a href="mailto:mdtausifraza317@gmail.com">Email</a>
+      |
+      <a href="https://github.com/mdtausif317" target="_blank">GitHub</a>
+    </div>
+    <p style="margin-top:10px;">© 2025 Tausif</p>
+  </footer>
+
+</body>
+</html>
